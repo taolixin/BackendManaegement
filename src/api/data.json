@@ -1,0 +1,181 @@
+{
+  "getData": [
+    {
+      "id": "1",
+      "name": "yyy",
+      "age": 18,
+      "gender": "女"
+    },
+    {
+      "id": "2",
+      "name": "ttt",
+      "age": 18,
+      "gender": "男"
+    },
+    {
+      "id": "3",
+      "name": "sss",
+      "age": 18,
+      "gender": "男"
+    }
+  ],
+  "getEcharts1Data": [
+    {
+      "address": 199,
+      "age": 15,
+      "date": 1999,
+      "name": "小米"
+    },
+    {
+      "address": 299,
+      "age": 16,
+      "date": 2999,
+      "name": "华为"
+    },
+    {
+      "address": 399,
+      "age": 17,
+      "date": 3999,
+      "name": "三星"
+    },
+    {
+      "address": 499,
+      "age": 18,
+      "date": 4999,
+      "name": "vivo"
+    },
+    {
+      "address": 599,
+      "age": 19,
+      "date": 5999,
+      "name": "OPPO"
+    },
+    {
+      "address": 699,
+      "age": 113,
+      "date": 6999,
+      "name": "魅族"
+    }
+  ],
+  "getPie": [
+    {
+      "name": "小米",
+      "value": 1999
+    },
+    {
+      "name": "华为",
+      "value": 999
+    },
+    {
+      "name": "魅族",
+      "value": 199
+    },
+    {
+      "name": "vivo",
+      "value": 1099
+    },
+    {
+      "name": "oppo",
+      "value": 199
+    },
+    {
+      "name": "三星",
+      "value": 99
+    }
+  ],
+  "userInfo": [
+    {
+      "name": "xiaoming1111",
+      "age": "18",
+      "gender": "男",
+      "addr": "国宝",
+      "birth": "2022.8.1",
+      "id": 1
+    },
+    {
+      "name": "xiaobai",
+      "age": "11",
+      "gender": "男",
+      "addr": "国宝",
+      "birth": "2022.4.1",
+      "id": 2
+    },
+    {
+      "name": "xiaoyang",
+      "age": "666111",
+      "gender": "男",
+      "addr": "国宝",
+      "birth": "2022.8.1",
+      "id": 88
+    },
+    {
+      "name": "111",
+      "age": "111",
+      "gender": "男",
+      "addr": "111",
+      "birth": "2010-09-30T16:00:00.000Z",
+      "id": 89
+    },
+    {
+      "name": "222",
+      "age": "222",
+      "gender": "男",
+      "addr": "222",
+      "birth": "2023-01-10T16:00:00.000Z",
+      "id": 90
+    },
+    {
+      "name": "444",
+      "age": "444",
+      "gender": "男",
+      "addr": "444",
+      "birth": "2023-01-03T16:00:00.000Z",
+      "id": 92
+    },
+    {
+      "name": "555",
+      "age": "555",
+      "gender": "女",
+      "addr": "555",
+      "birth": "2023-01-01T16:00:00.000Z",
+      "id": 93
+    },
+    {
+      "name": "杨撒谎",
+      "age": "28",
+      "gender": "女",
+      "addr": "叭叭叭",
+      "birth": "2023-01-02T16:00:00.000Z",
+      "id": 95
+    },
+    {
+      "name": "样多多",
+      "age": "12",
+      "gender": "女",
+      "addr": "11111",
+      "birth": "2023-01-02T16:00:00.000Z",
+      "id": 96
+    },
+    {
+      "name": "1111",
+      "age": "1",
+      "gender": "1",
+      "addr": "1",
+      "birth": "2022-12-25T16:00:00.000Z",
+      "id": 97
+    },
+    {
+      "name": "ttt",
+      "age": "11",
+      "gender": "男",
+      "addr": "11",
+      "birth": "2022-12-26T16:00:00.000Z",
+      "id": 98
+    }
+  ],
+  "auth":[
+    {"username":"yang",
+      "password":"111"  
+  }
+  ]
+}
